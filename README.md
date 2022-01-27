@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">李林飞｜同济大学</h3>
+  <h3 align="center">Li Linfei｜Tongji University</h3>
   <!--
   <h5 align="center">不想当艺术家🎨的演讲者🎙不是好程序员💻</h5>
   <h5 align="center">A speaker🎙 who doesn't want to be an artist🎨 is not a good programmer💻</h5
