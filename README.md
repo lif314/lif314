@@ -3,7 +3,7 @@
 </p>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lif314&count_private=true&show_icons=true&hide_border=true&bg_color=#00bfff&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lif314&count_private=true&show_icons=true&hide_border=true&bg_color=#00bfff,#00ffff&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=5" />
 </p>
   
 <p align = "center">
