@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Li Linfei｜Tongji University</h3>
+  <h3 align="center">csCogitoErgoSum｜Tongji University</h3>
 </p>
 
 <p align = "center">
