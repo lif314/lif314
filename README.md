@@ -10,8 +10,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lif314&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="50%" />
 </p>
 
-<p href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitAras&layout=compact&theme=tokyonight" />
+<p href="https://github.com/anuraghazra/github-readme-stats" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lif314&layout=compact&theme=tokyonight" />
 </p>
 
 - 🔭 I’m currently studying in Tongji University.
