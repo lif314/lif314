@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Cogito Ergo Sum</h3>
+  <h3 align="center"> Cogito Ergo Sum | Linfei Li </h3>
 </p>
 
 <p align = "center">
