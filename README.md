@@ -3,15 +3,20 @@
 </p>
 
 
-<p align = "center">
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lif314&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs" width="54%" />
+</div>
+
+
+<!-- <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=lif314" />
-</p>
+</p> -->
 
 
   
-<p align = "center">
+<!-- <p align = "center">
   <img src="https://github-profile-trophy.vercel.app/?username=lif314&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="50%" />
-</p>
+</p> -->
 
 
 - 🌱 I’m currently learning Robot Learning & 3D Vision...
