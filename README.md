@@ -3,7 +3,7 @@
 </p>
 
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around;" align = "center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=lif314&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=prs" width="54%" />
 </div>
 
