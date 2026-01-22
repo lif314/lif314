@@ -1,6 +1,8 @@
-<p align="center">
+<div align="center">
   <h3 align="center"> Cogito Ergo Sum | Linfei Li </h3>
-</p>
+
+ [🎓 Google Scholar](https://scholar.google.com/citations?user=V-ugTYUAAAAJ&hl=en)  •  [🔍 Semantic Scholar](https://www.semanticscholar.org/author/Linfei-Li/2327913493)
+</div>
 
 
 <div style="display: flex; justify-content: space-around;" align = "center">
